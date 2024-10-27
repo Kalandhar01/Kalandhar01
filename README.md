@@ -20,11 +20,11 @@ Student At Sri Shakthi Insitute
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kalandhar01&theme=neon&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
+  <br/><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalandhar01&theme=neon&hide_border=false" />
-  <br/>
+  <br/><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalandhar01&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+</div><br />
 <br />
 <br />
 
