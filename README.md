@@ -26,7 +26,7 @@ Student At Sri Shakthi Insitute
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalandhar01&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div><br />
 <br />
-<br />
+
 
 ## 🏆 GitHub Trophies:
 <div align="center">
