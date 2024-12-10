@@ -1,25 +1,46 @@
-Hi there 👋 I'm Kalandhar!
-Student at Sri Shakthi Institute | Aspiring Full-Stack Developer
+<h1 align="center">< About /></h1>
 
-<img align="right" width="300" height="200" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-🌱 Learning: MERN Stack
-🔭 My Portfolio: kalandhar.netlify.app
-👯 Collaboration: Open to Full-Stack Projects
-🤔 Help Needed: Placement guidance for ZOHO
-💬 Ask Me About: Tech, Coding, and Projects
-📫 Reach Me On: LinkedIn
-🌐 Connect With Me
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
 
+###
 
-📊 GitHub Overview
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kalandhar01&theme=tokyonight&hide_border=false" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalandhar01&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalandhar01&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" /> </div>
-🏆 Achievements
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=kalandhar01&theme=onedark&margin-w=10&row=1" alt="Trophies" /> </div>
-💻 Tech Stack
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
 
+###
 
+<p align="center">Hello Geeks! I'm a dedicated computer science student pursuing a bachelor's degree and aspiring software developer, with a strong foundation in technical skills and a knack for effective project management. I excel at tackling complex real-world problems through innovative solutions. Committed to continuous learning and improvement, I am eager to contribute my skills to impactful software development projects and thrive in dynamic environments. Let's connect and explore the boundless possibilities with world of software.</p>
 
-✍️ Random Dev Quote
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" /> </div>
-<div align="center"> <img src="https://visitcount.itsvg.in/api?id=kalandhar01&icon=0&color=0" alt="Profile Visits" /> </div>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahulnisanth&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=GitHub%20stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahulnisanth&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&custom_title=Language%20stats" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulnisanth&radius=16&theme=green&area=true&order=5&custom_title=Activity%20Graph&hide_border=true&hide_title=true&bg_color=black&color=ffffff&title_color=ffffff&line=ffffff&point=ffffff&area_color=ffffff" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=Rahulnisanth&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
