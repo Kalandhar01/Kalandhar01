@@ -5,7 +5,6 @@ Student At Sri Shakthi Insitute
 - 🔭 Here's my [portfolio](https://kalandhar.netlify.app/)                                                 
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Full Stack Project
-- 🤔 I’m looking for help with Placements in ZOHO
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/hareesh-r/](https://www.linkedin.com/in/kalanthar-naina-mohamad-339b14276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
