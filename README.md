@@ -1,8 +1,8 @@
-<h1 align="center">< About /></h1>
+<h1 align="center">&lt; About /&gt;</h1>
+
 
 
 ##
-
 <div align="center"> 
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java" />
@@ -11,27 +11,49 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-plain.svg" height="40" width="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="40" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"width="40" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs logo"  />
 </div>
 
+<br/>
 
-###
-
-
-
-###
-
-<p align="center">Hello Geeks! I'm a dedicated computer science student pursuing a bachelor's degree and aspiring software developer, with a strong foundation in technical skills and a knack for effective project management. I excel at tackling complex real-world problems through innovative solutions. Committed to continuous learning and improvement, I am eager to contribute my skills to impactful software development projects and thrive in dynamic environments. Let's connect and explore the boundless possibilities with world of software.</p>
-
-###
-
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahulnisanth&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&custom_title=Language%20stats" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulnisanth&radius=16&theme=green&area=true&order=5&custom_title=Activity%20Graph&hide_border=true&hide_title=true&bg_color=black&color=ffffff&title_color=ffffff&line=ffffff&point=ffffff&area_color=ffffff" height="300" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=kalandhar01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=kalandhar01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" width="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js" />
 </div>
+
+##
+
+<p align="center">
+  Hello Geeks! I'm a dedicated computer science student pursuing a bachelor's degree and aspiring software developer, with a strong foundation in technical skills and a knack for effective project management. I excel at tackling complex real-world problems through innovative solutions. Committed to continuous learning and improvement, I am eager to contribute my skills to impactful software development projects and thrive in dynamic environments. Let's connect and explore the boundless possibilities within the world of software.
+</p>
+
+##
+
+---
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=FF0000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Java+Problem+Solver;Building+Real+World+Projects;Always+Learning+New+Tech" />
+</p>
+
+
+<h2 align="center">👨‍💻 Coding Mode</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
+</p>
+
+<p align="center">
+  <b>Turning ideas into code</b> • <b>Debugging reality</b> • <b>Building the future</b>
+</p>
+
+
+
+---
